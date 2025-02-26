@@ -12,7 +12,7 @@ Pharmacists often struggle with illegible handwritten prescriptions, leading to 
 
 ## Features
 🚀 Handwritten Prescription Scanning – Uses Tesseract OCR to extract text from images.
-🧠 Intelligent Medicine Recognition – Utilizes NLP models (SpaCy/BERT) to detect medicine names and dosages.
+🧠 Intelligent Medicine Recognition – Utilizes NLP models (SpaCy) to detect medicine names and dosages.
 📦 Automated Order Generation – Matches prescription details with a structured medicine database.
 🌐 Web-based Interface – Enables pharmacists to upload prescriptions and receive verified medicine orders.
 🔒 Secure Data Handling – Implements encryption & access control to ensure privacy.
